@@ -1,0 +1,1 @@
+print("hej, today weather is bad")
